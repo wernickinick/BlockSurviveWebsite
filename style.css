@@ -1,0 +1,29 @@
+.title{
+    text-align: center;
+    font-size: 80px;
+}
+.about{
+    text-align: center;
+    font-size: 30px;
+}
+.download{
+    display: flex;
+    width: 150px;
+    height: 30px;
+    border-radius: 33px;
+    color: white;
+    background-color: rgba(181, 9, 47, 0.802);
+    text-decoration: none;
+    align-items: center ;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+body{
+    background-image: url(assets/background.png);
+    background-size: cover;
+    background-position: 40% 20%;
+    
+}
